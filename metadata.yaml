@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34771'
     url: http://www.gutenberg.org/2009/agents/34771
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30721#Robert-BurnsFamous-Scots-Series
 gutenberg_bookshelf: Famous Scots Series
 gutenberg_issued: '2009-12-20'
 gutenberg_type: Text
