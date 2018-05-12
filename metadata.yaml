@@ -1,0 +1,28 @@
+_repo: Robert-BurnsFamous-Scots-Series_30721
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30721-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Setoun, Gabriel
+    birthdate: 1861
+    deathdate: 1930
+    gutenberg_agent_id: '34771'
+    url: http://www.gutenberg.org/2009/agents/34771
+description: ''
+gutenberg_bookshelf: Famous Scots Series
+gutenberg_issued: '2009-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30721'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Famous Scots Series, 5
+subjects:
+- !lcsh 'Burns, Robert, 1759-1796'
+- !lcc 'PR'
+title: Robert Burns
+url: http://www.gutenberg.org/ebooks/30721
