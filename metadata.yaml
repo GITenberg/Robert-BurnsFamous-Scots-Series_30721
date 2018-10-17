@@ -26,5 +26,6 @@ series_note: Famous Scots Series, 5
 subjects:
 - !lcsh 'Burns, Robert, 1759-1796'
 - !lcc 'PR'
+- GITenberg
 title: Robert Burns
 url: http://www.gutenberg.org/ebooks/30721
